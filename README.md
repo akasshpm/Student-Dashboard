@@ -4,6 +4,10 @@
 
 This project is a demo model created as part of my HTML learning journey. It showcases a simple Student Dashboard built using basic web technologies like HTML, CSS, and JavaScript. The dashboard is designed to demonstrate layout structure, UI elements, and responsive design principles.
 
+
+** View the webpage at 90% zoom **
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
